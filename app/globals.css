@@ -4,5 +4,6 @@
 
 /* Simple utility classes for the app */
 body {
-  @apply bg-gray-100 text-gray-800;
+  @apply bg-slate-50 text-slate-800 from-indigo-50 via-slate-50 to-white min-h-screen;
+  background-image: radial-gradient(ellipse at top, var(--tw-gradient-stops));
 }
