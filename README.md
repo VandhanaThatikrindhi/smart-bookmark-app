@@ -1,3 +1,9 @@
+## Live Application
+https://smart-bookmark-app-nu-one.vercel.app
+
+## GitHub Repository
+https://github.com/VandhanaThatikrindhi/smart-bookmark-app
+
 # Smart Bookmark App
 
 This project implements a lightweight bookmark manager using **Next.js 14** (App Router), **Supabase** for authentication, database and realtime updates, and **Tailwind CSS** for styling. It satisfies the requirements from the assignment: Google‐only authentication, per‑user private bookmarks, realtime updates across tabs, delete functionality and deployment readiness on Vercel.
@@ -111,3 +117,7 @@ When implementing the `/auth/callback` route, the session was not persisted unti
 ## Conclusion
 
 The Smart Bookmark App demonstrates a complete flow for authenticated, realtime CRUD using Next.js and Supabase. The combination of Google OAuth, row level security policies and realtime subscriptions yields a secure, multi‑tab experience. To extend this project you could add editing, tagging, search or shareable collections. Happy hacking!
+
+## Author
+
+Vandhana Thatikrindi
